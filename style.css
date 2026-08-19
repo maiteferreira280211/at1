@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+    color: black;
+    margin: 0;
+}
+
+header{
+    padding: 0;
+    margin: 0;
+}
+
+nav a{
+    display: inline-block;
+    width: 100px;
+    padding: 5px 10px;
+    text-align: center;
+    border: 2px solid #555;
+    color: blue;
+    margin-right: 5px;
+}
+
+h1{
+    margin: 25px 0;
+}
+
+h2{
+    margin: 25px 0 15px;
+}
+
+.projeto{
+    display: inline-block;
+    width: 195px;
+    height: 150px;
+    border: 2px solid #555;
+    padding: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+
+.sobre span {
+   border: 2px solid #888;
+   padding: 2px 5px;
+   display: inline-block;
+}
+
+footer {
+    border: 2px solid #555;
+    padding: 15px;
+    margin-top: 20px;
+}
